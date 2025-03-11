@@ -1,0 +1,2 @@
+#Overview
+The CreateEmail application was a tool I wrote while I worked at Blizzard Entertainment in QA.  The purpose was to read all of the posts that the QA team had made on a task and then generate a report (as HTML) that could identify any bugs from those reports and the status of those bugs.  Each member of the QA team was required to add an End of Task (EoT) report, following a specific format, to a specific task at the end of the task, or end of the day.
